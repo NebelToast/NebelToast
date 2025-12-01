@@ -1,13 +1,12 @@
 # Hi there, I'm Julius 👋
 
-I'm a Computer Science student at **Hochschule Darmstadt** with a passion for **programming** and lately for **low level languages** like Rust.
+I'm a Computer Science student at **Hochschule Darmstadt** with a passion for **software devlopment** and low-level languages like **Rust** and **C++**.
 
-I transitioned from Python(the first language i learned) to **Rust** as i got more into CS. I have a passion for terminal-based tools and love the TUI aesthethic.
-
+While I started my journey with Python, I transitioned to **Rust** as I dived deeper into Computer Science, seeking performance and memory safety. I have a strong passion for terminal-based tools, **Linux** customization, and the **TUI aesthetic**.
 
 ### 🔭 Current Focus
-- **CLI/TUI:** Building CLI/TUI tools and applications for aesthetic or utility.
-- **Linux & DevOps:** Managing reproducible environments with **Nix**.
+- **CLI/TUI:** Building terminal applications that combine utility with a clean aesthetic.
+- **Linux & DevOps:** Managing reproducible system configurations with **Nix**.
 
 ---
 
@@ -35,6 +34,6 @@ I transitioned from Python(the first language i learned) to **Rust** as i got mo
 | [**cli-p2p-messenger**](https://github.com/NebelToast/cli-p2p-messenger) | A Peer-to-Peer messenger application focusing on decentralized communication. | `Rust` `Networking` |
 | [**tui-weather-engine**](https://github.com/NebelToast/tui-weather-engine) | A text-based weather simulation and display engine for the terminal. | `Python` `TUI` |
 | [**nixos-config**](https://github.com/NebelToast/nixos-config) | My declarative system configuration for reproducible Linux environments. | `Nix` `Linux` |
-| [**dotfiles**](https://github.com/NebelToast/dotfiles) | Personalized configuration files, heavily using Wallust | `Config` |
+| [**dotfiles**](https://github.com/NebelToast/dotfiles) | Personalized configuration files, heavily using Wallust for theming. | `Config` |
 
 ---
