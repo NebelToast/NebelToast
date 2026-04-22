@@ -1,16 +1,14 @@
-# Hi there, I'm Julius 👋
+# Hi there, I'm Julius
 
 I'm a Computer Science student at **Hochschule Darmstadt** with a passion for **software devlopment** and low-level languages like **Rust** and **C++**.
 
-While I started my journey with Python, I transitioned to **Rust** as I dived deeper into Computer Science, seeking performance and memory safety. I have a strong passion for terminal-based tools, **Linux** customization, and the **TUI aesthetic**.
+While I started my journey with Python, I transitioned to **Rust** as I dived deeper into Computer Science, seeking performance and memory safety. I have a  passion for terminal-based tools, **Linux** customization, and the **TUI aesthetic**.
 
-### 🔭 Current Focus
-- **CLI/TUI:** Building terminal applications that combine utility with a clean aesthetic.
-- **Linux & DevOps:** Managing reproducible system configurations with **Nix**.
+
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -27,7 +25,7 @@ While I started my journey with Python, I transitioned to **Rust** as I dived de
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
